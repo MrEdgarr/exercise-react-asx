@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen Van A",
+        "phone": "12312312312",
+        "Permisson": 1 
+    },
+    {
+        "id": 2,
+        "name": "Nguyen Van B",
+        "phone": "12312312312",
+        "Permisson": 2 
+    },
+    {
+        "id": 3,
+        "name": "Nguyen Van C",
+        "phone": "12312312312",
+        "Permisson": 3 
+    },
+    {
+        "id": 4,
+        "name": "Nguyen Van D",
+        "phone": "12312312312",
+        "Permisson": 4 
+    }
+]
